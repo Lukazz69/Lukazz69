@@ -1,6 +1,6 @@
 # 🔹 Lucas Tomaz
 
-**`Estudande de programação.`**
+**`Estudante de programação.`**
 
 Olá! Me chamo João Lucas Tomaz, tenho 24 anos e moro em Fortaleza, Ceará. Minha paixão por tecnologia me impulsiona a sempre inovar e entender a fundo como as coisas funcionam.
 
